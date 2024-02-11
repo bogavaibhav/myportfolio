@@ -1,0 +1,35 @@
+[
+    {
+        "role": " Associate Software Engineer",
+        "organisation": "Colruyt India",
+        "startDate": "May 2023",
+        "endDate": "Dec 2023",
+        "experiences": [
+            "Worked on Java Framework Application i.e.,EJBs",
+            "Worked on improvement of B2B websites using Angular"
+        ],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Trainee Software Engineer",
+        "organisation": "Colruyt India",
+        "startDate": "Oct 2021",
+        "endDate": "May 2023",
+        "experiences": [
+            "Worked on WCS Technology",
+            "Improved features in Collect and Go website"
+        ],
+        "imageSrc": "history/microsoft.png"
+    },
+    {
+        "role": "Intern",
+        "organisation": "NSIC",
+        "startDate": "June 2019",
+        "endDate": "Aug 2019",
+        "experiences": [
+            "Worked on PCB Designing",
+            "Learnt Arduino Programming"
+        ],
+        "imageSrc": "history/netflix.png"
+    }
+]
