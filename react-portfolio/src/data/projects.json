@@ -1,39 +1,38 @@
 [
     {
-        "title": "Project A",
+        "title": "Design of UWB Antenna ",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "This is my final year project made by using a simulation software.",
         "skills": [
-            "React",
-            "Express",
-            "Node"
+            "Ansys HFSS",
+            "Problem Solving"
         ],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://www.github.com/bogavaibhav"
     },
     {
-        "title": "Project B",
+        "title": "Department Management",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "This is a project made to learn Java Framework Spring Boot.",
         "skills": [
-            "React",
-            "Express",
-            "Node",
-            "Sass"
+            "Java",
+            "SpringBoot",
+            "Maven",
+            "SQL"
         ],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://www.github.com/bogavaibhav"
     },
     {
-        "title": "Project C",
+        "title": "My Portfolio",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "This is a project made to learn the front end languages.",
         "skills": [
             "React",
-            "Express",
+            "Figma",
             "Node"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://bogavaibhavportfolio-version1.netlify.app/",
+        "source": "https://www.github.com/bogavaibhav"
     }
 ]
